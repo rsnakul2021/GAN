@@ -2,6 +2,10 @@
 
 This project implements a Text-to-Image GAN model trained on the CUB-200-2011 dataset to generate bird images from text descriptions. The model uses BERT for text encoding and a conditional GAN architecture for image generation.
 
+## Notes
+1. The data has to be donwloaded first. The insrtuctions are given below.
+2. I recommed training the model on Google Cloud or Cloud Servers and saving the model locally to run the app.
+
 ## Setup
 
 1. Create a virtual environment and install dependencies:
