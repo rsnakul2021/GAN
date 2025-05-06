@@ -60,3 +60,7 @@ See `requirements.txt` for a complete list of dependencies. The main requirement
 - Pillow
 - NumPy
 - tqdm 
+
+
+## Output
+<img width="516" alt="Result" src="https://github.com/user-attachments/assets/eec0884f-5074-4a6d-8c9c-55e9c1afa81f" />
